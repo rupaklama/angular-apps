@@ -1,0 +1,8 @@
+/* This css rules will be only scoped to the card component
+   This styles won't effect other elements throughout our application
+*/
+.card {
+  margin: 1rem;
+  max-width: 100%;
+  width: 350px;
+}

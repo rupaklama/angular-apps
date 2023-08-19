@@ -1,0 +1,7 @@
+/* Apply styling to the host element: app-root */
+:host {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}

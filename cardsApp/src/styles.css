@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("bulma/css/bulma.css");
+
+body {
+  background-color: rgba(255, 228, 196, 0.1);
+  height: 100vh;
+  /* padding: 2rem; */
+}
+
+/* The works but not a good practice on component scoping */
+/* app-root {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+} */
